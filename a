@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Slideshow</title>
-    <script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
-    <script type="text/javascript" src="js/cycle2.js"></script>
+    <script type="text/javascript" src="img/8.png"></script>
+    <script type="text/javascript" src="img/8.png"></script>
     
     <style type="text/css">
     * {
@@ -64,15 +64,15 @@
    
 <div id="container">
     <div id="slideshow">
-        <img src="img/back.jpg" alt="">
-        <img src="img/8.jpeg" alt="">
-        <img src="img/Beige%20Lake%20Mt.jpg" alt="">
-        <img src="img/keys.jpg" alt="">
+        <img src="img/8.png" alt="">
+        <img src="img/8.png" alt="">
+        <img src="img/8.png" alt="">
+        <img src="img/8.png" alt="">
     </div>
     
     <div id="pager"></div>
-    <img id="prev" src="img/prev1.svg"/>
-    <img id="next" src="img/next1.svg"/>
+    <img id="prev" src="img/8.png"/>
+    <img id="next" src="img/8.png"/>
 </div>
  
 </body>
